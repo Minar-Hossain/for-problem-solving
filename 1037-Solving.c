@@ -11,9 +11,9 @@ int main() {
     } else if (f > 50.0000  && f <= 75.0000) {
        printf("Intervalo [50,75]\n");
     } else if(f > 75.0000 && f <= 100.0000 ){
-       printf("Intervalo [50,75]\n");
+       printf("Intervalo [75,100]\n");
     } else {
-       printf("Fora de inervalo\n");
+       printf("Fora de intervalo\n");
     }
 return 0;
 }
