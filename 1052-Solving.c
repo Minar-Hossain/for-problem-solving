@@ -25,9 +25,9 @@ int main(){
     }else if(n == 9){
         printf("September\n");
     }else if(n == 10){
-        printf("Octobor\n");
+        printf("October\n");
     }else if(n == 11){
-        printf("Novembor\n");
+        printf("November\n");
     }else if(n == 12){
         printf("December\n");
     }
